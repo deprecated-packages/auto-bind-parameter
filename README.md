@@ -1,4 +1,6 @@
-# Auto Bind Parameters for Symfony Apps
+# [Deprecated] Auto Bind Parameters for Symfony Apps
+
+***Deprecated: instead of magic parameter binding, use [ParameterProvider with constants](https://twitter.com/VotrubaT/status/1306651269709336577)**
 
 [![Downloads total](https://img.shields.io/packagist/dt/symplify/auto-bind-parameter.svg?style=flat-square)](https://packagist.org/packages/symplify/auto-bind-parameter/stats)
 
